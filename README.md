@@ -1,4 +1,4 @@
-# firebase-web-chat
+# firebase-web-chatbot
 Web Chat application using firebase
 Follow this instructions:
 Start with Web-Start
